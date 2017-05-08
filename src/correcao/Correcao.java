@@ -20,7 +20,7 @@ public class Correcao {
     int questoes, acertos;
     double valor;
     static double resultado;
-//teste git
+//teste
     public static void main(String[] args) {
 
         Correcao corrigir = new Correcao();
